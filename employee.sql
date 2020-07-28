@@ -3,7 +3,6 @@
 --       You can create database locally to test it.
 --       Consider add ';' at end sentence.
 --
---
 -- CREATE DATABASE employee_employee;
 
 CREATE TABLE employee (
